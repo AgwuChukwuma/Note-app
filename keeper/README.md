@@ -1,8 +1,7 @@
-# React + Vite
+Notes App
+A simple React application that allows users to create, view, and delete notes. This app demonstrates state management, component composition, and event handling in React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Add Notes: Users can create new notes with a title and content.
+View Notes: Notes are displayed in a list format.
+Delete Notes: Users can remove notes from the list.
