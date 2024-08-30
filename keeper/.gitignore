@@ -22,3 +22,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Firebase project settings
+firebase-debug.log
+.firebaserc
+
+# Firebase functions
+functions/node_modules/
+functions/.env
+functions/.env.local
+
+# Firebase Hosting
+public/
+firebase.json
